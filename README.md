@@ -19,4 +19,4 @@ If an output file is specified in the plugin preferences, it is overwritten and 
 
 ## Future Work
 
-I may clean this up later on and add the ability to quick-push the generated file. Otherwise, this plugin does what I need it to do for now.
+I may clean this up later on and add the ability to quick-push the generated file. In fact, I could probably, and most likely will, remove the GitPython dependency entirely since it feels like overkill. Otherwise, this plugin does what I need it to do for now.
